@@ -1,0 +1,32 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_beginning"
+	group: "4D1C50F168B4FD83"
+	id: "666961767CD4C9C6"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: [
+			"Hello and welcome to &aEnderdynamics!&f this is a light tech pack focused on the player &1escaping the End.&f"
+			""
+			"As you might have noticed, you're not in the &aOverworld.&f You spawn in the end, with barely any resources.. except, this &dChorus Flower?&f"
+		]
+		icon: "minecraft:chorus_flower"
+		id: "59F23647CE00BF4A"
+		rewards: [{
+			id: "328334288901BDA1"
+			item: "minecraft:chorus_flower"
+			type: "item"
+		}]
+		subtitle: "The End.. Of the End."
+		tasks: [{
+			id: "76AC5171D678A1CF"
+			title: "Welcome!"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "The Beginning"
+}
